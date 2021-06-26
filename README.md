@@ -1,6 +1,6 @@
-# GDSongReplace
+# GD Song Replace
 
-GD Song Replace by TumbleWede
+Created by TumbleWede
 Click on main.pyw to launch the program
 
 This is an open-source program that is used to easily take Newgrounds songs you downloaded into Geometry Dash and replace it with custom songs
